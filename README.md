@@ -1,4 +1,4 @@
-#♂️ Genie Local CLI — Offline AI Shell Assistant
+#Genie Local CLI — Offline AI Shell Assistant
 
 A fully offline, privacy‑safe CLI assistant that generates, explains, and refines Bash commands using **Ollama** and open‑source language models (like *Mistral*, *Phi3*, or *Llama3*). Ideal for local environments where you want an AI assistant without API keys or cloud dependencies.
 
