@@ -46,7 +46,7 @@ source ~/.bashrc
 
 ---
 
-## eatures
+## Features
 
 ### Generate Commands (default)
 
